@@ -5,10 +5,18 @@ def load_data(path):
     with open(path, 'r') as read_file:
         data = json.load(read_file)
 
+    # c = 0
+    new_data = []
+
     for university_class in data['Casovi']:
         classroom = university_class['Ucionica']
+        # if classroom == 'r':
+        #     c += int(university_class['Trajanje'])
         university_class['Ucionica'] = data['Ucionice'][classroom]
+            # new_data.append(university_class)
 
+
+    # print(c)
     data = data['Casovi']
 
     return data
@@ -27,14 +35,17 @@ def generate_chromosome(data):
             classrooms[classroom] = [0] * 60
         for group in single_class['Grupe']:
             groups[group] = [0] * 60
-        subjects[single_class['Predmet']] = {'P' : -1, 'V' : -1, 'L' : -1}
+        subjects[single_class['Predmet']] = {'P' : [], 'V' : [], 'L' : []}
 
     for single_class in data:
         new_single_class = single_class.copy()
 
         classroom = random.choice(single_class['Ucionica'])
         day = random.randrange(0, 5)
-        period = random.randrange(0, 13 - int(single_class['Trajanje']))
+        if day == 4:
+            period = random.randrange(0, 12 - int(single_class['Trajanje']))
+        else:
+            period = random.randrange(0, 13 - int(single_class['Trajanje']))
         new_single_class['Zadata_ucionica'] = classroom
         time = 12 * day + period
         new_single_class['Zadato_vreme'] = time
@@ -44,30 +55,12 @@ def generate_chromosome(data):
             classrooms[classroom][i] += 1
             for group in new_single_class['Grupe']:
                 groups[group][i] += 1
-            subjects[new_single_class['Predmet']][new_single_class['Tip']] = time
+        subjects[new_single_class['Predmet']][new_single_class['Tip']].append(time)
 
         new_data.append(new_single_class)
 
     return (new_data, professors, classrooms, groups, subjects)
 
-# data = load_data('classes/ulaz1.json')
-# print(data)
-# (chromosome, professors, classrooms, groups, subjects) = generate_chromosome(data)
-# x = generate_chromosome(data)
-# x = generate_population(data, 100)
-# print(x)
-# print(x[1])
-# print(x[2])
-# print(x[3])
-# print(x[4])
-
-def generate_population(data, pop_size):
-    population = []
-    for i in range(pop_size):
-        chromosome = generate_chromosome(data)
-        population.append(chromosome)
-    return population
-
-# x = generate_population(data, 3)
-# for i in range(3):
-#     print(x[i])
+def write_data(data, path):
+    with open(path, 'w') as write_file:
+        json.dump(data, write_file, indent=4)
