@@ -82,8 +82,8 @@ def cost2(chromosome):
 
 max_generations = 5000
 num_runs = 5
-input_file = 'classes/ulaz3.json'
-output_file = 'classes/izlaz3.json'
+input_file = 'classes/ulaz2.json'
+output_file = 'classes/izlaz2.json'
 cost_function = cost
 cost_function2 = cost2
 
@@ -235,7 +235,7 @@ def evolutionary_algorithm():
 
         print('Run', i + 1, 'cost', cost_function(chromosome), 'chromosome', chromosome)
 
-        if best_timetable is None or cost_function(chromosome) <= cost_function(best_timetable):
+        if best_timetable is None or cost_function2(chromosome) <= cost_function2(best_timetable):
             best_timetable = deepcopy(chromosome)
 
     chromosome = best_timetable
