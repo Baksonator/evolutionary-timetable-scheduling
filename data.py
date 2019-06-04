@@ -5,18 +5,10 @@ def load_data(path):
     with open(path, 'r') as read_file:
         data = json.load(read_file)
 
-    # c = 0
-    new_data = []
-
     for university_class in data['Casovi']:
         classroom = university_class['Ucionica']
-        # if classroom == 'r':
-        #     c += int(university_class['Trajanje'])
         university_class['Ucionica'] = data['Ucionice'][classroom]
-            # new_data.append(university_class)
 
-
-    # print(c)
     data = data['Casovi']
 
     return data
