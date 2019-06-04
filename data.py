@@ -55,7 +55,7 @@ def generate_chromosome(data):
             classrooms[classroom][i] += 1
             for group in new_single_class['Grupe']:
                 groups[group][i] += 1
-        subjects[new_single_class['Predmet']][new_single_class['Tip']].append(time)
+        subjects[new_single_class['Predmet']][new_single_class['Tip']].append((time, new_single_class['Grupe']))
 
         new_data.append(new_single_class)
 

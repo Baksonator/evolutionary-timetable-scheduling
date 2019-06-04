@@ -24,17 +24,20 @@ def cost(chromosome):
     for single_class in chromosome[4]:
         for lab in chromosome[4][single_class]['L']:
             for practice in chromosome[4][single_class]['V']:
-                if lab < practice:
-                    subjects_cost += 0.01
+                for grupa in lab[1]:
+                    if grupa in practice[1] and lab[0] < practice[0]:
+                        subjects_cost += 0.0025
             for lecture in chromosome[4][single_class]['P']:
-                if lab < lecture:
-                    subjects_cost += 0.01
+                for grupa in lab[1]:
+                    if grupa in lecture[1] and lab[0] < lecture[0]:
+                        subjects_cost += 0.0025
         for practice in chromosome[4][single_class]['V']:
             for lecture in chromosome[4][single_class]['P']:
-                if practice < lecture:
-                    subjects_cost += 0.01
+                for grupa in practice[1]:
+                    if grupa in lecture[1] and practice[0] < lecture[0]:
+                        subjects_cost += 0.0025
 
-    return prof_cost + classrooms_cost + groups_cost + round(subjects_cost, 2)
+    return prof_cost + classrooms_cost + groups_cost + round(subjects_cost, 4)
 
 def cost2(chromosome):
     groups_empty = 0
@@ -82,8 +85,8 @@ def cost2(chromosome):
 
 max_generations = 5000
 num_runs = 5
-input_file = 'classes/ulaz2.json'
-output_file = 'classes/izlaz2.json'
+input_file = 'classes/ulaz1.json'
+output_file = 'classes/izlaz1.json'
 cost_function = cost
 cost_function2 = cost2
 
@@ -112,7 +115,7 @@ def neighbour(chromosome):
         chromosome[2][chromosome[0][i]['Zadata_ucionica']][j] -= 1
         for group in chromosome[0][i]['Grupe']:
             chromosome[3][group][j] -= 1
-    chromosome[4][chromosome[0][i]['Predmet']][chromosome[0][i]['Tip']].remove(chromosome[0][i]['Zadato_vreme'])
+    chromosome[4][chromosome[0][i]['Predmet']][chromosome[0][i]['Tip']].remove((chromosome[0][i]['Zadato_vreme'], chromosome[0][i]['Grupe']))
 
     trajanje = int(chromosome[0][i]['Trajanje'])
     found = False
@@ -154,7 +157,7 @@ def neighbour(chromosome):
         chromosome[2][chromosome[0][i]['Zadata_ucionica']][j] += 1
         for group in chromosome[0][i]['Grupe']:
             chromosome[3][group][j] += 1
-    chromosome[4][chromosome[0][i]['Predmet']][chromosome[0][i]['Tip']].append(chromosome[0][i]['Zadato_vreme'])
+    chromosome[4][chromosome[0][i]['Predmet']][chromosome[0][i]['Tip']].append((chromosome[0][i]['Zadato_vreme'], chromosome[0][i]['Grupe']))
 
     return chromosome
 
@@ -183,14 +186,14 @@ def neighbour2(chromosome):
         chromosome[2][first['Zadata_ucionica']][j] -= 1
         for group in first['Grupe']:
             chromosome[3][group][j] -= 1
-    chromosome[4][first['Predmet']][first['Tip']].remove(first['Zadato_vreme'])
+    chromosome[4][first['Predmet']][first['Tip']].remove((first['Zadato_vreme'], first['Grupe']))
 
     for j in range(second['Zadato_vreme'], second['Zadato_vreme'] + int(second['Trajanje'])):
         chromosome[1][second['Nastavnik']][j] -= 1
         chromosome[2][second['Zadata_ucionica']][j] -= 1
         for group in second['Grupe']:
             chromosome[3][group][j] -= 1
-    chromosome[4][second['Predmet']][second['Tip']].remove(second['Zadato_vreme'])
+    chromosome[4][second['Predmet']][second['Tip']].remove((second['Zadato_vreme'], second['Grupe']))
 
     tmp = first['Zadato_vreme']
     first['Zadato_vreme'] = second['Zadato_vreme']
@@ -205,14 +208,14 @@ def neighbour2(chromosome):
         chromosome[2][first['Zadata_ucionica']][j] += 1
         for group in first['Grupe']:
             chromosome[3][group][j] += 1
-    chromosome[4][first['Predmet']][first['Tip']].append(first['Zadato_vreme'])
+    chromosome[4][first['Predmet']][first['Tip']].append((first['Zadato_vreme'], first['Grupe']))
 
     for j in range(second['Zadato_vreme'], second['Zadato_vreme'] + int(second['Trajanje'])):
         chromosome[1][second['Nastavnik']][j] += 1
         chromosome[2][second['Zadata_ucionica']][j] += 1
         for group in second['Grupe']:
             chromosome[3][group][j] += 1
-    chromosome[4][second['Predmet']][second['Tip']].append(second['Zadato_vreme'])
+    chromosome[4][second['Predmet']][second['Tip']].append((second['Zadato_vreme'], second['Grupe']))
 
     return chromosome
 
@@ -249,7 +252,7 @@ def evolutionary_algorithm():
         if j % 200 == 0:
             print('Iteration', j, 'cost', cost_function2(chromosome))
 
-    print('Run', 1, 'cost', cost_function2(chromosome), 'chromosome', chromosome)
+    print('Run', 'cost', cost_function2(chromosome), 'chromosome', chromosome)
 
     dt.write_data(chromosome[0], output_file)
 
@@ -284,15 +287,18 @@ def evolutionary_algorithm():
         subject_cost = 0
         for lab in chromosome[4][single_class]['L']:
             for practice in chromosome[4][single_class]['V']:
-                if lab < practice:
-                    subject_cost += 1
+                for grupa in lab[1]:
+                    if grupa in practice[1] and lab[0] < practice[0]:
+                        subject_cost += 1
             for lecture in chromosome[4][single_class]['P']:
-                if lab < lecture:
-                    subject_cost += 1
+                for grupa in lab[1]:
+                    if grupa in lecture[1] and lab[0] < lecture[0]:
+                        subject_cost += 1
         for practice in chromosome[4][single_class]['V']:
             for lecture in chromosome[4][single_class]['P']:
-                if practice < lecture:
-                    subject_cost += 1
+                for grupa in practice[1]:
+                    if grupa in lecture[1] and practice[0] < lecture[0]:
+                        subject_cost += 1
         subjects_cost += subject_cost
         print('Subject cost for subject', single_class, 'is:', subject_cost)
     print('Total subject cost:', subjects_cost)
