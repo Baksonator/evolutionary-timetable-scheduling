@@ -84,9 +84,9 @@ def cost2(chromosome):
     return original_cost + round(groups_empty, 3) + round(prof_empty, 5) + round(load_prof, 3) + round(load_groups, 4)
 
 max_generations = 5000
-num_runs = 5
-input_file = 'classes/ulaz1.json'
-output_file = 'classes/izlaz1.json'
+num_runs = 1
+input_file = 'classes/ulaz3.json'
+output_file = 'classes/izlaz3.json'
 cost_function = cost
 cost_function2 = cost2
 
@@ -177,7 +177,8 @@ def neighbour2(chromosome):
         if first['Zadata_ucionica'] in second['Ucionica'] and second['Zadata_ucionica'] in first['Ucionica']\
                 and first['Zadato_vreme'] % 12 + int(second['Trajanje']) <= 12 \
                 and second['Zadato_vreme'] % 12 + int(first['Trajanje']) <= 12:
-            if first['Zadato_vreme'] + int(second['Trajanje']) != 60 and second['Zadato_vreme'] + int(first['Trajanje']) != 60:
+            if first['Zadato_vreme'] + int(second['Trajanje']) != 60 and second['Zadato_vreme'] + int(first['Trajanje']) != 60\
+                    and first != second:
                 satisfied = True
         c += 1
 
@@ -244,7 +245,7 @@ def evolutionary_algorithm():
     chromosome = best_timetable
 
     for j in range(3 * max_generations):
-        new_chromosome = neighbour(deepcopy(chromosome))
+        new_chromosome = neighbour2(deepcopy(chromosome))
         ft = cost_function2(chromosome)
         ftn = cost_function2(new_chromosome)
         if ftn <= ft:
