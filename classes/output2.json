@@ -1,0 +1,3144 @@
+[
+    {
+        "Predmet": "Objektno orijentisano programiranje",
+        "Tip": "V",
+        "Nastavnik": "Milojkovic Branislav",
+        "Grupe": [
+            "101"
+        ],
+        "Ucionica": [
+            "U2",
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Trajanje": "2",
+        "Zadata_ucionica": "U5",
+        "Zadato_vreme": 50
+    },
+    {
+        "Predmet": "Objektno orijentisano programiranje",
+        "Tip": "L",
+        "Nastavnik": "Burgic Stefan",
+        "Grupe": [
+            "101"
+        ],
+        "Ucionica": [
+            "U2",
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Trajanje": "2",
+        "Zadata_ucionica": "U4",
+        "Zadato_vreme": 57
+    },
+    {
+        "Predmet": "Matematicka analiza",
+        "Tip": "P",
+        "Nastavnik": "Jovanovic Irena",
+        "Grupe": [
+            "101",
+            "102"
+        ],
+        "Ucionica": [
+            "U1",
+            "U6",
+            "U8",
+            "U9",
+            "U11"
+        ],
+        "Trajanje": "2",
+        "Zadata_ucionica": "U1",
+        "Zadato_vreme": 20
+    },
+    {
+        "Predmet": "Matematicka analiza",
+        "Tip": "V",
+        "Nastavnik": "Jerotijevic Marija",
+        "Grupe": [
+            "101",
+            "102"
+        ],
+        "Ucionica": [
+            "U1",
+            "U6",
+            "U8",
+            "U9",
+            "U11"
+        ],
+        "Trajanje": "3",
+        "Zadata_ucionica": "U9",
+        "Zadato_vreme": 54
+    },
+    {
+        "Predmet": "Objektno orijentisano programiranje",
+        "Tip": "P",
+        "Nastavnik": "Dimic Surla Bojana",
+        "Grupe": [
+            "101",
+            "102"
+        ],
+        "Ucionica": [
+            "U1",
+            "U6",
+            "U8",
+            "U9",
+            "U11"
+        ],
+        "Trajanje": "2",
+        "Zadata_ucionica": "U8",
+        "Zadato_vreme": 26
+    },
+    {
+        "Predmet": "Diskretne strukture",
+        "Tip": "P",
+        "Nastavnik": "Jovanovic Irena",
+        "Grupe": [
+            "101",
+            "102"
+        ],
+        "Ucionica": [
+            "U1",
+            "U6",
+            "U8",
+            "U9",
+            "U11"
+        ],
+        "Trajanje": "2",
+        "Zadata_ucionica": "U8",
+        "Zadato_vreme": 28
+    },
+    {
+        "Predmet": "Diskretne strukture",
+        "Tip": "V",
+        "Nastavnik": "Jerotijevic Marija",
+        "Grupe": [
+            "101",
+            "102"
+        ],
+        "Ucionica": [
+            "U1",
+            "U6",
+            "U8",
+            "U9",
+            "U11"
+        ],
+        "Trajanje": "3",
+        "Zadata_ucionica": "U11",
+        "Zadato_vreme": 42
+    },
+    {
+        "Predmet": "Engleski 2",
+        "Tip": "P",
+        "Nastavnik": "Cuk Bojana",
+        "Grupe": [
+            "101",
+            "102"
+        ],
+        "Ucionica": [
+            "U1",
+            "U6",
+            "U8",
+            "U9",
+            "U11"
+        ],
+        "Trajanje": "2",
+        "Zadata_ucionica": "U8",
+        "Zadato_vreme": 24
+    },
+    {
+        "Predmet": "Pismeno i usmeno izrazavanje",
+        "Tip": "P",
+        "Nastavnik": "Markovic Mirjana",
+        "Grupe": [
+            "101",
+            "102"
+        ],
+        "Ucionica": [
+            "U1",
+            "U6",
+            "U8",
+            "U9",
+            "U11"
+        ],
+        "Trajanje": "2",
+        "Zadata_ucionica": "U8",
+        "Zadato_vreme": 52
+    },
+    {
+        "Predmet": "Objektno orijentisano programiranje",
+        "Tip": "V",
+        "Nastavnik": "Milojkovic Branislav",
+        "Grupe": [
+            "102"
+        ],
+        "Ucionica": [
+            "U2",
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Trajanje": "2",
+        "Zadata_ucionica": "U7",
+        "Zadato_vreme": 9
+    },
+    {
+        "Predmet": "Objektno orijentisano programiranje",
+        "Tip": "L",
+        "Nastavnik": "Burgic Stefan",
+        "Grupe": [
+            "102"
+        ],
+        "Ucionica": [
+            "U2",
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Trajanje": "2",
+        "Zadata_ucionica": "U3",
+        "Zadato_vreme": 45
+    },
+    {
+        "Predmet": "Objektno orijentisano programiranje",
+        "Tip": "V",
+        "Nastavnik": "Tomic Milan",
+        "Grupe": [
+            "103"
+        ],
+        "Ucionica": [
+            "U2",
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Trajanje": "2",
+        "Zadata_ucionica": "U3",
+        "Zadato_vreme": 15
+    },
+    {
+        "Predmet": "Objektno orijentisano programiranje",
+        "Tip": "L",
+        "Nastavnik": "Vignjevic Mihailo",
+        "Grupe": [
+            "103"
+        ],
+        "Ucionica": [
+            "U2",
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Trajanje": "2",
+        "Zadata_ucionica": "U5",
+        "Zadato_vreme": 57
+    },
+    {
+        "Predmet": "Matematicka analiza",
+        "Tip": "P",
+        "Nastavnik": "Jovanovic Irena",
+        "Grupe": [
+            "103",
+            "104"
+        ],
+        "Ucionica": [
+            "U1",
+            "U6",
+            "U8",
+            "U9",
+            "U11"
+        ],
+        "Trajanje": "2",
+        "Zadata_ucionica": "U1",
+        "Zadato_vreme": 9
+    },
+    {
+        "Predmet": "Matematicka analiza",
+        "Tip": "V",
+        "Nastavnik": "Jerotijevic Marija",
+        "Grupe": [
+            "103",
+            "104"
+        ],
+        "Ucionica": [
+            "U1",
+            "U6",
+            "U8",
+            "U9",
+            "U11"
+        ],
+        "Trajanje": "3",
+        "Zadata_ucionica": "U1",
+        "Zadato_vreme": 12
+    },
+    {
+        "Predmet": "Objektno orijentisano programiranje",
+        "Tip": "P",
+        "Nastavnik": "Dimic Surla Bojana",
+        "Grupe": [
+            "103",
+            "104"
+        ],
+        "Ucionica": [
+            "U1",
+            "U6",
+            "U8",
+            "U9",
+            "U11"
+        ],
+        "Trajanje": "2",
+        "Zadata_ucionica": "U11",
+        "Zadato_vreme": 24
+    },
+    {
+        "Predmet": "Diskretne strukture",
+        "Tip": "V",
+        "Nastavnik": "Jerotijevic Marija",
+        "Grupe": [
+            "103",
+            "104"
+        ],
+        "Ucionica": [
+            "U1",
+            "U6",
+            "U8",
+            "U9",
+            "U11"
+        ],
+        "Trajanje": "3",
+        "Zadata_ucionica": "U6",
+        "Zadato_vreme": 36
+    },
+    {
+        "Predmet": "Diskretne strukture",
+        "Tip": "P",
+        "Nastavnik": "Jovanovic Irena",
+        "Grupe": [
+            "103",
+            "104"
+        ],
+        "Ucionica": [
+            "U1",
+            "U6",
+            "U8",
+            "U9",
+            "U11"
+        ],
+        "Trajanje": "2",
+        "Zadata_ucionica": "U11",
+        "Zadato_vreme": 26
+    },
+    {
+        "Predmet": "Engleski 2",
+        "Tip": "P",
+        "Nastavnik": "Cuk Bojana",
+        "Grupe": [
+            "103",
+            "104"
+        ],
+        "Ucionica": [
+            "U1",
+            "U6",
+            "U8",
+            "U9",
+            "U11"
+        ],
+        "Trajanje": "2",
+        "Zadata_ucionica": "U11",
+        "Zadato_vreme": 7
+    },
+    {
+        "Predmet": "Pismeno i usmeno izrazavanje",
+        "Tip": "P",
+        "Nastavnik": "Markovic Mirjana",
+        "Grupe": [
+            "103",
+            "104"
+        ],
+        "Ucionica": [
+            "U1",
+            "U6",
+            "U8",
+            "U9",
+            "U11"
+        ],
+        "Trajanje": "2",
+        "Zadata_ucionica": "U9",
+        "Zadato_vreme": 28
+    },
+    {
+        "Predmet": "Objektno orijentisano programiranje",
+        "Tip": "L",
+        "Nastavnik": "Dresevic Nevena",
+        "Grupe": [
+            "104"
+        ],
+        "Ucionica": [
+            "U2",
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Trajanje": "2",
+        "Zadata_ucionica": "U7",
+        "Zadato_vreme": 48
+    },
+    {
+        "Predmet": "Objektno orijentisano programiranje",
+        "Tip": "V",
+        "Nastavnik": "Stancic Aleksandar",
+        "Grupe": [
+            "104"
+        ],
+        "Ucionica": [
+            "U2",
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Trajanje": "2",
+        "Zadata_ucionica": "U2",
+        "Zadato_vreme": 39
+    },
+    {
+        "Predmet": "Objektno orijentisano programiranje",
+        "Tip": "L",
+        "Nastavnik": "Vignjevic Mihailo",
+        "Grupe": [
+            "105"
+        ],
+        "Ucionica": [
+            "U2",
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Trajanje": "2",
+        "Zadata_ucionica": "U4",
+        "Zadato_vreme": 36
+    },
+    {
+        "Predmet": "Objektno orijentisano programiranje",
+        "Tip": "V",
+        "Nastavnik": "Stancic Aleksandar",
+        "Grupe": [
+            "105"
+        ],
+        "Ucionica": [
+            "U2",
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Trajanje": "2",
+        "Zadata_ucionica": "U7",
+        "Zadato_vreme": 28
+    },
+    {
+        "Predmet": "Matematicka analiza",
+        "Tip": "P",
+        "Nastavnik": "Jovanovic Irena",
+        "Grupe": [
+            "105",
+            "106",
+            "107"
+        ],
+        "Ucionica": [
+            "U1",
+            "U6",
+            "U8",
+            "U9",
+            "U11"
+        ],
+        "Trajanje": "2",
+        "Zadata_ucionica": "U8",
+        "Zadato_vreme": 5
+    },
+    {
+        "Predmet": "Matematicka analiza",
+        "Tip": "V",
+        "Nastavnik": "Jerotijevic Marija",
+        "Grupe": [
+            "105",
+            "106",
+            "107"
+        ],
+        "Ucionica": [
+            "U1",
+            "U6",
+            "U8",
+            "U9",
+            "U11"
+        ],
+        "Trajanje": "3",
+        "Zadata_ucionica": "U6",
+        "Zadato_vreme": 30
+    },
+    {
+        "Predmet": "Objektno orijentisano programiranje",
+        "Tip": "P",
+        "Nastavnik": "Dimic Surla Bojana",
+        "Grupe": [
+            "105",
+            "106",
+            "107"
+        ],
+        "Ucionica": [
+            "U1",
+            "U6",
+            "U8",
+            "U9",
+            "U11"
+        ],
+        "Trajanje": "2",
+        "Zadata_ucionica": "U9",
+        "Zadato_vreme": 7
+    },
+    {
+        "Predmet": "Diskretne strukture",
+        "Tip": "P",
+        "Nastavnik": "Jovanovic Irena",
+        "Grupe": [
+            "105",
+            "106",
+            "107"
+        ],
+        "Ucionica": [
+            "U1",
+            "U6",
+            "U8",
+            "U9",
+            "U11"
+        ],
+        "Trajanje": "2",
+        "Zadata_ucionica": "U9",
+        "Zadato_vreme": 18
+    },
+    {
+        "Predmet": "Diskretne strukture",
+        "Tip": "V",
+        "Nastavnik": "Jerotijevic Marija",
+        "Grupe": [
+            "105",
+            "106",
+            "107"
+        ],
+        "Ucionica": [
+            "U1",
+            "U6",
+            "U8",
+            "U9",
+            "U11"
+        ],
+        "Trajanje": "3",
+        "Zadata_ucionica": "U1",
+        "Zadato_vreme": 51
+    },
+    {
+        "Predmet": "Pismeno i usmeno izrazavanje",
+        "Tip": "P",
+        "Nastavnik": "Markovic Mirjana",
+        "Grupe": [
+            "105",
+            "106",
+            "107"
+        ],
+        "Ucionica": [
+            "U1",
+            "U6",
+            "U8",
+            "U9",
+            "U11"
+        ],
+        "Trajanje": "2",
+        "Zadata_ucionica": "U11",
+        "Zadato_vreme": 9
+    },
+    {
+        "Predmet": "Objektno orijentisano programiranje",
+        "Tip": "L",
+        "Nastavnik": "Ciric Bogdan",
+        "Grupe": [
+            "106"
+        ],
+        "Ucionica": [
+            "U2",
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Trajanje": "2",
+        "Zadata_ucionica": "U2",
+        "Zadato_vreme": 44
+    },
+    {
+        "Predmet": "Objektno orijentisano programiranje",
+        "Tip": "V",
+        "Nastavnik": "Zirojevic Nemanja",
+        "Grupe": [
+            "106"
+        ],
+        "Ucionica": [
+            "U2",
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Trajanje": "2",
+        "Zadata_ucionica": "U3",
+        "Zadato_vreme": 33
+    },
+    {
+        "Predmet": "Engleski 2",
+        "Tip": "P",
+        "Nastavnik": "Cuk Bojana",
+        "Grupe": [
+            "106"
+        ],
+        "Ucionica": [
+            "U1",
+            "U6",
+            "U8",
+            "U9",
+            "U11"
+        ],
+        "Trajanje": "2",
+        "Zadata_ucionica": "U6",
+        "Zadato_vreme": 54
+    },
+    {
+        "Predmet": "Objektno orijentisano programiranje",
+        "Tip": "V",
+        "Nastavnik": "Stancic Aleksandar",
+        "Grupe": [
+            "107"
+        ],
+        "Ucionica": [
+            "U2",
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Trajanje": "2",
+        "Zadata_ucionica": "U4",
+        "Zadato_vreme": 20
+    },
+    {
+        "Predmet": "Objektno orijentisano programiranje",
+        "Tip": "L",
+        "Nastavnik": "Dresevic Nevena",
+        "Grupe": [
+            "107"
+        ],
+        "Ucionica": [
+            "U2",
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Trajanje": "2",
+        "Zadata_ucionica": "U5",
+        "Zadato_vreme": 44
+    },
+    {
+        "Predmet": "Engleski 2",
+        "Tip": "P",
+        "Nastavnik": "Cuk Bojana",
+        "Grupe": [
+            "107",
+            "105"
+        ],
+        "Ucionica": [
+            "U1",
+            "U6",
+            "U8",
+            "U9",
+            "U11"
+        ],
+        "Trajanje": "2",
+        "Zadata_ucionica": "U11",
+        "Zadato_vreme": 16
+    },
+    {
+        "Predmet": "Ilustracija",
+        "Tip": "P",
+        "Nastavnik": "Djuric Milan",
+        "Grupe": [
+            "1d1",
+            "1d2",
+            "1d3"
+        ],
+        "Ucionica": [
+            "U1",
+            "U6",
+            "U8",
+            "U9",
+            "U11"
+        ],
+        "Trajanje": "3",
+        "Zadata_ucionica": "U6",
+        "Zadato_vreme": 0
+    },
+    {
+        "Predmet": "Ilustracija",
+        "Tip": "V",
+        "Nastavnik": "Djuric Milan",
+        "Grupe": [
+            "1d1",
+            "1d2",
+            "1d3"
+        ],
+        "Ucionica": [
+            "U1",
+            "U6",
+            "U8",
+            "U9",
+            "U11"
+        ],
+        "Trajanje": "3",
+        "Zadata_ucionica": "U8",
+        "Zadato_vreme": 36
+    },
+    {
+        "Predmet": "Dizajn i informacione tehnologije",
+        "Tip": "P",
+        "Nastavnik": "Telarovic Rosana",
+        "Grupe": [
+            "1d1",
+            "1d2",
+            "1d3"
+        ],
+        "Ucionica": [
+            "U1",
+            "U6",
+            "U8",
+            "U9",
+            "U11"
+        ],
+        "Trajanje": "3",
+        "Zadata_ucionica": "U1",
+        "Zadato_vreme": 30
+    },
+    {
+        "Predmet": "Dizajn i informacione tehnologije",
+        "Tip": "V",
+        "Nastavnik": "Bujic Predrag",
+        "Grupe": [
+            "1d1",
+            "1d2",
+            "1d3"
+        ],
+        "Ucionica": [
+            "U1",
+            "U6",
+            "U8",
+            "U9",
+            "U11"
+        ],
+        "Trajanje": "3",
+        "Zadata_ucionica": "U1",
+        "Zadato_vreme": 48
+    },
+    {
+        "Predmet": "Administracija i odrzavanje sistema 2",
+        "Tip": "P",
+        "Nastavnik": "Lale Sinisa",
+        "Grupe": [
+            "1s1"
+        ],
+        "Ucionica": [
+            "U2",
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Trajanje": "3",
+        "Zadata_ucionica": "U4",
+        "Zadato_vreme": 39
+    },
+    {
+        "Predmet": "Administracija i odrzavanje sistema 2",
+        "Tip": "P",
+        "Nastavnik": "Lale Sinisa",
+        "Grupe": [
+            "1s1"
+        ],
+        "Ucionica": [
+            "U2",
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Trajanje": "3",
+        "Zadata_ucionica": "U2",
+        "Zadato_vreme": 17
+    },
+    {
+        "Predmet": "Osnovi informacionih tehnologija",
+        "Tip": "V",
+        "Nastavnik": "Zahorjanski Miroljub",
+        "Grupe": [
+            "1s1"
+        ],
+        "Ucionica": [
+            "U2",
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Trajanje": "1",
+        "Zadata_ucionica": "U4",
+        "Zadato_vreme": 38
+    },
+    {
+        "Predmet": "Poslovni softver",
+        "Tip": "P",
+        "Nastavnik": "Mijatovic Igor",
+        "Grupe": [
+            "1s1"
+        ],
+        "Ucionica": [
+            "U2",
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Trajanje": "3",
+        "Zadata_ucionica": "U3",
+        "Zadato_vreme": 6
+    },
+    {
+        "Predmet": "Poslovni softver",
+        "Tip": "P",
+        "Nastavnik": "Mijatovic Igor",
+        "Grupe": [
+            "1s1"
+        ],
+        "Ucionica": [
+            "U2",
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Trajanje": "2",
+        "Zadata_ucionica": "U3",
+        "Zadato_vreme": 9
+    },
+    {
+        "Predmet": "Engleski 2",
+        "Tip": "P",
+        "Nastavnik": "Vrbica-Matejic Vera",
+        "Grupe": [
+            "1s1",
+            "1s2"
+        ],
+        "Ucionica": [
+            "U1",
+            "U6",
+            "U8",
+            "U9",
+            "U11"
+        ],
+        "Trajanje": "2",
+        "Zadata_ucionica": "U9",
+        "Zadato_vreme": 42
+    },
+    {
+        "Predmet": "Pismeno i usmeno izrazavanje",
+        "Tip": "P",
+        "Nastavnik": "Markovic Mirjana",
+        "Grupe": [
+            "1s1",
+            "1s2"
+        ],
+        "Ucionica": [
+            "U1",
+            "U6",
+            "U8",
+            "U9",
+            "U11"
+        ],
+        "Trajanje": "2",
+        "Zadata_ucionica": "U9",
+        "Zadato_vreme": 48
+    },
+    {
+        "Predmet": "Osnovi informacionih tehnologija",
+        "Tip": "P",
+        "Nastavnik": "Zahorjanski Miroljub",
+        "Grupe": [
+            "1s1",
+            "1s2"
+        ],
+        "Ucionica": [
+            "U1",
+            "U6",
+            "U8",
+            "U9",
+            "U11"
+        ],
+        "Trajanje": "3",
+        "Zadata_ucionica": "U1",
+        "Zadato_vreme": 24
+    },
+    {
+        "Predmet": "Administracija i odrzavanje sistema 2",
+        "Tip": "P",
+        "Nastavnik": "Seslija Ognjen",
+        "Grupe": [
+            "1s2"
+        ],
+        "Ucionica": [
+            "U2",
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Trajanje": "3",
+        "Zadata_ucionica": "U5",
+        "Zadato_vreme": 0
+    },
+    {
+        "Predmet": "Administracija i odrzavanje sistema 2",
+        "Tip": "P",
+        "Nastavnik": "Seslija Ognjen",
+        "Grupe": [
+            "1s2"
+        ],
+        "Ucionica": [
+            "U2",
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Trajanje": "3",
+        "Zadata_ucionica": "U3",
+        "Zadato_vreme": 3
+    },
+    {
+        "Predmet": "Osnovi informacionih tehnologija",
+        "Tip": "V",
+        "Nastavnik": "Zahorjanski Miroljub",
+        "Grupe": [
+            "1s2"
+        ],
+        "Ucionica": [
+            "U2",
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Trajanje": "1",
+        "Zadata_ucionica": "U7",
+        "Zadato_vreme": 50
+    },
+    {
+        "Predmet": "Poslovni softver",
+        "Tip": "P",
+        "Nastavnik": "Mijatovic Igor",
+        "Grupe": [
+            "1s2"
+        ],
+        "Ucionica": [
+            "U2",
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Trajanje": "3",
+        "Zadata_ucionica": "U7",
+        "Zadato_vreme": 12
+    },
+    {
+        "Predmet": "Poslovni softver",
+        "Tip": "P",
+        "Nastavnik": "Mijatovic Igor",
+        "Grupe": [
+            "1s2"
+        ],
+        "Ucionica": [
+            "U2",
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Trajanje": "2",
+        "Zadata_ucionica": "U4",
+        "Zadato_vreme": 27
+    },
+    {
+        "Predmet": "Operativni sistemi",
+        "Tip": "V",
+        "Nastavnik": "Veniger Marko",
+        "Grupe": [
+            "201"
+        ],
+        "Ucionica": [
+            "U2",
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Trajanje": "3",
+        "Zadata_ucionica": "U2",
+        "Zadato_vreme": 14
+    },
+    {
+        "Predmet": "Racunarske mreze",
+        "Tip": "V",
+        "Nastavnik": "Galic Luka",
+        "Grupe": [
+            "201"
+        ],
+        "Ucionica": [
+            "U2",
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Trajanje": "3",
+        "Zadata_ucionica": "U3",
+        "Zadato_vreme": 48
+    },
+    {
+        "Predmet": "Upravljanje informacijama",
+        "Tip": "V",
+        "Nastavnik": "Markovic Ana",
+        "Grupe": [
+            "201"
+        ],
+        "Ucionica": [
+            "U2",
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Trajanje": "2",
+        "Zadata_ucionica": "U4",
+        "Zadato_vreme": 31
+    },
+    {
+        "Predmet": "Dizajn i analiza algoritama",
+        "Tip": "V",
+        "Nastavnik": "Bakarec Bogdan",
+        "Grupe": [
+            "201"
+        ],
+        "Ucionica": [
+            "U1",
+            "U6",
+            "U8",
+            "U9",
+            "U11"
+        ],
+        "Trajanje": "2",
+        "Zadata_ucionica": "U1",
+        "Zadato_vreme": 42
+    },
+    {
+        "Predmet": "Upravljanje informacijama",
+        "Tip": "P",
+        "Nastavnik": "Perisic Branko",
+        "Grupe": [
+            "201",
+            "202"
+        ],
+        "Ucionica": [
+            "U1",
+            "U6",
+            "U8",
+            "U9",
+            "U11"
+        ],
+        "Trajanje": "3",
+        "Zadata_ucionica": "U6",
+        "Zadato_vreme": 17
+    },
+    {
+        "Predmet": "Dizajn i analiza algoritama",
+        "Tip": "P",
+        "Nastavnik": "Urosevic Dragan",
+        "Grupe": [
+            "201",
+            "202"
+        ],
+        "Ucionica": [
+            "U1",
+            "U6",
+            "U8",
+            "U9",
+            "U11"
+        ],
+        "Trajanje": "2",
+        "Zadata_ucionica": "U6",
+        "Zadato_vreme": 33
+    },
+    {
+        "Predmet": "Operativni sistemi",
+        "Tip": "V",
+        "Nastavnik": "Veniger Marko",
+        "Grupe": [
+            "202"
+        ],
+        "Ucionica": [
+            "U2",
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Trajanje": "3",
+        "Zadata_ucionica": "U3",
+        "Zadato_vreme": 36
+    },
+    {
+        "Predmet": "Racunarske mreze",
+        "Tip": "V",
+        "Nastavnik": "Galic Luka",
+        "Grupe": [
+            "202"
+        ],
+        "Ucionica": [
+            "U2",
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Trajanje": "3",
+        "Zadata_ucionica": "U2",
+        "Zadato_vreme": 0
+    },
+    {
+        "Predmet": "Upravljanje informacijama",
+        "Tip": "V",
+        "Nastavnik": "Markovic Ana",
+        "Grupe": [
+            "202"
+        ],
+        "Ucionica": [
+            "U2",
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Trajanje": "2",
+        "Zadata_ucionica": "U2",
+        "Zadato_vreme": 20
+    },
+    {
+        "Predmet": "Dizajn i analiza algoritama",
+        "Tip": "V",
+        "Nastavnik": "Bakarec Bogdan",
+        "Grupe": [
+            "202"
+        ],
+        "Ucionica": [
+            "U1",
+            "U6",
+            "U8",
+            "U9",
+            "U11"
+        ],
+        "Trajanje": "2",
+        "Zadata_ucionica": "U8",
+        "Zadato_vreme": 48
+    },
+    {
+        "Predmet": "Operativni sistemi",
+        "Tip": "V",
+        "Nastavnik": "Veniger Marko",
+        "Grupe": [
+            "203"
+        ],
+        "Ucionica": [
+            "U2",
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Trajanje": "3",
+        "Zadata_ucionica": "U3",
+        "Zadato_vreme": 17
+    },
+    {
+        "Predmet": "Racunarske mreze",
+        "Tip": "V",
+        "Nastavnik": "Vucicevic Nemanja",
+        "Grupe": [
+            "203"
+        ],
+        "Ucionica": [
+            "U2",
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Trajanje": "3",
+        "Zadata_ucionica": "U7",
+        "Zadato_vreme": 36
+    },
+    {
+        "Predmet": "Upravljanje informacijama",
+        "Tip": "V",
+        "Nastavnik": "Markovic Ana",
+        "Grupe": [
+            "203"
+        ],
+        "Ucionica": [
+            "U2",
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Trajanje": "2",
+        "Zadata_ucionica": "U4",
+        "Zadato_vreme": 55
+    },
+    {
+        "Predmet": "Dizajn i analiza algoritama",
+        "Tip": "V",
+        "Nastavnik": "Draskic Radojica",
+        "Grupe": [
+            "203"
+        ],
+        "Ucionica": [
+            "U1",
+            "U6",
+            "U8",
+            "U9",
+            "U11"
+        ],
+        "Trajanje": "2",
+        "Zadata_ucionica": "U9",
+        "Zadato_vreme": 30
+    },
+    {
+        "Predmet": "Upravljanje informacijama",
+        "Tip": "P",
+        "Nastavnik": "Perisic Branko",
+        "Grupe": [
+            "203",
+            "204",
+            "205"
+        ],
+        "Ucionica": [
+            "U1",
+            "U6",
+            "U8",
+            "U9",
+            "U11"
+        ],
+        "Trajanje": "3",
+        "Zadata_ucionica": "U6",
+        "Zadato_vreme": 14
+    },
+    {
+        "Predmet": "Dizajn i analiza algoritama",
+        "Tip": "P",
+        "Nastavnik": "Urosevic Dragan",
+        "Grupe": [
+            "203",
+            "204",
+            "205"
+        ],
+        "Ucionica": [
+            "U1",
+            "U6",
+            "U8",
+            "U9",
+            "U11"
+        ],
+        "Trajanje": "2",
+        "Zadata_ucionica": "U11",
+        "Zadato_vreme": 3
+    },
+    {
+        "Predmet": "Operativni sistemi",
+        "Tip": "V",
+        "Nastavnik": "Veniger Marko",
+        "Grupe": [
+            "204"
+        ],
+        "Ucionica": [
+            "U2",
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Trajanje": "3",
+        "Zadata_ucionica": "U7",
+        "Zadato_vreme": 0
+    },
+    {
+        "Predmet": "Racunarske mreze",
+        "Tip": "V",
+        "Nastavnik": "Vucicevic Nemanja",
+        "Grupe": [
+            "204"
+        ],
+        "Ucionica": [
+            "U2",
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Trajanje": "3",
+        "Zadata_ucionica": "U4",
+        "Zadato_vreme": 17
+    },
+    {
+        "Predmet": "Upravljanje informacijama",
+        "Tip": "V",
+        "Nastavnik": "Markovic Ana",
+        "Grupe": [
+            "204"
+        ],
+        "Ucionica": [
+            "U2",
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Trajanje": "2",
+        "Zadata_ucionica": "U4",
+        "Zadato_vreme": 44
+    },
+    {
+        "Predmet": "Dizajn i analiza algoritama",
+        "Tip": "V",
+        "Nastavnik": "Draskic Radojica",
+        "Grupe": [
+            "204"
+        ],
+        "Ucionica": [
+            "U1",
+            "U6",
+            "U8",
+            "U9",
+            "U11"
+        ],
+        "Trajanje": "2",
+        "Zadata_ucionica": "U6",
+        "Zadato_vreme": 50
+    },
+    {
+        "Predmet": "Operativni sistemi",
+        "Tip": "V",
+        "Nastavnik": "Milojkovic Branislav",
+        "Grupe": [
+            "205"
+        ],
+        "Ucionica": [
+            "U2",
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Trajanje": "3",
+        "Zadata_ucionica": "U3",
+        "Zadato_vreme": 42
+    },
+    {
+        "Predmet": "Racunarske mreze",
+        "Tip": "V",
+        "Nastavnik": "Mitrovic Marko",
+        "Grupe": [
+            "205"
+        ],
+        "Ucionica": [
+            "U2",
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Trajanje": "3",
+        "Zadata_ucionica": "U2",
+        "Zadato_vreme": 24
+    },
+    {
+        "Predmet": "Upravljanje informacijama",
+        "Tip": "V",
+        "Nastavnik": "Markovic Ana",
+        "Grupe": [
+            "205"
+        ],
+        "Ucionica": [
+            "U2",
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Trajanje": "2",
+        "Zadata_ucionica": "U5",
+        "Zadato_vreme": 17
+    },
+    {
+        "Predmet": "Dizajn i analiza algoritama",
+        "Tip": "V",
+        "Nastavnik": "Draskic Radojica",
+        "Grupe": [
+            "205"
+        ],
+        "Ucionica": [
+            "U2",
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Trajanje": "2",
+        "Zadata_ucionica": "U2",
+        "Zadato_vreme": 48
+    },
+    {
+        "Predmet": "Operativni sistemi",
+        "Tip": "V",
+        "Nastavnik": "Milojkovic Branislav",
+        "Grupe": [
+            "210"
+        ],
+        "Ucionica": [
+            "U2",
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Trajanje": "3",
+        "Zadata_ucionica": "U5",
+        "Zadato_vreme": 6
+    },
+    {
+        "Predmet": "Racunarske mreze",
+        "Tip": "V",
+        "Nastavnik": "Mitrovic Marko",
+        "Grupe": [
+            "210"
+        ],
+        "Ucionica": [
+            "U2",
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Trajanje": "3",
+        "Zadata_ucionica": "U7",
+        "Zadato_vreme": 53
+    },
+    {
+        "Predmet": "Digitalne komunikacije",
+        "Tip": "V",
+        "Nastavnik": "Jovanovic Miljana",
+        "Grupe": [
+            "210"
+        ],
+        "Ucionica": [
+            "U2",
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Trajanje": "2",
+        "Zadata_ucionica": "U7",
+        "Zadato_vreme": 20
+    },
+    {
+        "Predmet": "Racunarske mreze",
+        "Tip": "P",
+        "Nastavnik": "Bojovic Petar",
+        "Grupe": [
+            "210",
+            "211"
+        ],
+        "Ucionica": [
+            "U1",
+            "U6",
+            "U8",
+            "U9",
+            "U11"
+        ],
+        "Trajanje": "3",
+        "Zadata_ucionica": "U11",
+        "Zadato_vreme": 30
+    },
+    {
+        "Predmet": "Napredna matematicka analiza",
+        "Tip": "P",
+        "Nastavnik": "Filipovic Milanka",
+        "Grupe": [
+            "210",
+            "211"
+        ],
+        "Ucionica": [
+            "U1",
+            "U6",
+            "U8",
+            "U9",
+            "U11"
+        ],
+        "Trajanje": "2",
+        "Zadata_ucionica": "U11",
+        "Zadato_vreme": 33
+    },
+    {
+        "Predmet": "Napredna matematicka analiza",
+        "Tip": "V",
+        "Nastavnik": "Filipovic Milanka",
+        "Grupe": [
+            "210",
+            "211"
+        ],
+        "Ucionica": [
+            "U1",
+            "U6",
+            "U8",
+            "U9",
+            "U11"
+        ],
+        "Trajanje": "2",
+        "Zadata_ucionica": "U1",
+        "Zadato_vreme": 44
+    },
+    {
+        "Predmet": "Digitalne komunikacije",
+        "Tip": "P",
+        "Nastavnik": "Vucic Desimir",
+        "Grupe": [
+            "210",
+            "211"
+        ],
+        "Ucionica": [
+            "U1",
+            "U6",
+            "U8",
+            "U9",
+            "U11"
+        ],
+        "Trajanje": "3",
+        "Zadata_ucionica": "U6",
+        "Zadato_vreme": 3
+    },
+    {
+        "Predmet": "Operativni sistemi",
+        "Tip": "V",
+        "Nastavnik": "Veniger Marko",
+        "Grupe": [
+            "211"
+        ],
+        "Ucionica": [
+            "U2",
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Trajanje": "3",
+        "Zadata_ucionica": "U2",
+        "Zadato_vreme": 53
+    },
+    {
+        "Predmet": "Racunarske mreze",
+        "Tip": "V",
+        "Nastavnik": "Mitrovic Marko",
+        "Grupe": [
+            "211"
+        ],
+        "Ucionica": [
+            "U2",
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Trajanje": "3",
+        "Zadata_ucionica": "U5",
+        "Zadato_vreme": 41
+    },
+    {
+        "Predmet": "Digitalne komunikacije",
+        "Tip": "V",
+        "Nastavnik": "Jovanovic Miljana",
+        "Grupe": [
+            "211"
+        ],
+        "Ucionica": [
+            "U2",
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Trajanje": "2",
+        "Zadata_ucionica": "U2",
+        "Zadato_vreme": 51
+    },
+    {
+        "Predmet": "Grafiicki dizajn 1",
+        "Tip": "P",
+        "Nastavnik": "Malesevic Nenad",
+        "Grupe": [
+            "2d1"
+        ],
+        "Ucionica": [
+            "U1",
+            "U6",
+            "U8",
+            "U9",
+            "U11"
+        ],
+        "Trajanje": "3",
+        "Zadata_ucionica": "U11",
+        "Zadato_vreme": 12
+    },
+    {
+        "Predmet": "Prostor i oblik",
+        "Tip": "P",
+        "Nastavnik": "Telarovic Rosana",
+        "Grupe": [
+            "2d1"
+        ],
+        "Ucionica": [
+            "U1",
+            "U6",
+            "U8",
+            "U9",
+            "U11"
+        ],
+        "Trajanje": "3",
+        "Zadata_ucionica": "U1",
+        "Zadato_vreme": 15
+    },
+    {
+        "Predmet": "Racunarske komunikacije",
+        "Tip": "V",
+        "Nastavnik": "Babovic Ivan",
+        "Grupe": [
+            "2s1"
+        ],
+        "Ucionica": [
+            "U2",
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Trajanje": "3",
+        "Zadata_ucionica": "U2",
+        "Zadato_vreme": 30
+    },
+    {
+        "Predmet": "Programiranje WEB aplikacija",
+        "Tip": "P",
+        "Nastavnik": "Radosavljevic Nemanja",
+        "Grupe": [
+            "2s1"
+        ],
+        "Ucionica": [
+            "U2",
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Trajanje": "2",
+        "Zadata_ucionica": "U4",
+        "Zadato_vreme": 33
+    },
+    {
+        "Predmet": "Programiranje WEB aplikacija",
+        "Tip": "V",
+        "Nastavnik": "Mihajlovic Todor",
+        "Grupe": [
+            "2s1"
+        ],
+        "Ucionica": [
+            "U2",
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Trajanje": "3",
+        "Zadata_ucionica": "U5",
+        "Zadato_vreme": 52
+    },
+    {
+        "Predmet": "Interakcija covek racunar",
+        "Tip": "V",
+        "Nastavnik": "Mijatovic Igor",
+        "Grupe": [
+            "2s1"
+        ],
+        "Ucionica": [
+            "U2",
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Trajanje": "2",
+        "Zadata_ucionica": "U5",
+        "Zadato_vreme": 55
+    },
+    {
+        "Predmet": "Elektronsko poslovanje",
+        "Tip": "V",
+        "Nastavnik": "Radosavljevic Nemanja",
+        "Grupe": [
+            "2s1"
+        ],
+        "Ucionica": [
+            "U2",
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Trajanje": "2",
+        "Zadata_ucionica": "U7",
+        "Zadato_vreme": 44
+    },
+    {
+        "Predmet": "Racunarske komunikacije",
+        "Tip": "P",
+        "Nastavnik": "Babovic Ivan",
+        "Grupe": [
+            "2s1",
+            "2s2"
+        ],
+        "Ucionica": [
+            "U1",
+            "U6",
+            "U8",
+            "U9",
+            "U11"
+        ],
+        "Trajanje": "3",
+        "Zadata_ucionica": "U9",
+        "Zadato_vreme": 15
+    },
+    {
+        "Predmet": "Elektronsko poslovanje",
+        "Tip": "P",
+        "Nastavnik": "Popovic Snezana",
+        "Grupe": [
+            "2s1",
+            "2s2"
+        ],
+        "Ucionica": [
+            "U1",
+            "U6",
+            "U8",
+            "U9",
+            "U11"
+        ],
+        "Trajanje": "3",
+        "Zadata_ucionica": "U9",
+        "Zadato_vreme": 12
+    },
+    {
+        "Predmet": "Racunarske komunikacije",
+        "Tip": "V",
+        "Nastavnik": "Babovic Ivan",
+        "Grupe": [
+            "2s2"
+        ],
+        "Ucionica": [
+            "U2",
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Trajanje": "3",
+        "Zadata_ucionica": "U2",
+        "Zadato_vreme": 36
+    },
+    {
+        "Predmet": "Programiranje WEB aplikacija",
+        "Tip": "V",
+        "Nastavnik": "Mihajlovic Todor",
+        "Grupe": [
+            "2s2"
+        ],
+        "Ucionica": [
+            "U2",
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Trajanje": "3",
+        "Zadata_ucionica": "U3",
+        "Zadato_vreme": 39
+    },
+    {
+        "Predmet": "Programiranje WEB aplikacija",
+        "Tip": "P",
+        "Nastavnik": "Radosavljevic Nemanja",
+        "Grupe": [
+            "2s2"
+        ],
+        "Ucionica": [
+            "U2",
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Trajanje": "2",
+        "Zadata_ucionica": "U4",
+        "Zadato_vreme": 3
+    },
+    {
+        "Predmet": "Interakcija covek racunar",
+        "Tip": "V",
+        "Nastavnik": "Mijatovic Igor",
+        "Grupe": [
+            "2s2"
+        ],
+        "Ucionica": [
+            "U2",
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Trajanje": "2",
+        "Zadata_ucionica": "U4",
+        "Zadato_vreme": 29
+    },
+    {
+        "Predmet": "Elektronsko poslovanje",
+        "Tip": "V",
+        "Nastavnik": "Radosavljevic Nemanja",
+        "Grupe": [
+            "2s2"
+        ],
+        "Ucionica": [
+            "U2",
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Trajanje": "2",
+        "Zadata_ucionica": "U5",
+        "Zadato_vreme": 48
+    },
+    {
+        "Predmet": "Programski prevodioci",
+        "Tip": "P",
+        "Nastavnik": "Vujosevic Dusan",
+        "Grupe": [
+            "301",
+            "302",
+            "303",
+            "304",
+            "305",
+            "306",
+            "307",
+            "308",
+            "309",
+            "309a"
+        ],
+        "Ucionica": [
+            "U1",
+            "U6",
+            "U8",
+            "U9",
+            "U11"
+        ],
+        "Trajanje": "2",
+        "Zadata_ucionica": "U8",
+        "Zadato_vreme": 0
+    },
+    {
+        "Predmet": "Masinsko ucenje",
+        "Tip": "P",
+        "Nastavnik": "Ilic Nemanja",
+        "Grupe": [
+            "301",
+            "302",
+            "306",
+            "308"
+        ],
+        "Ucionica": [
+            "U1",
+            "U6",
+            "U8",
+            "U9",
+            "U11"
+        ],
+        "Trajanje": "2",
+        "Zadata_ucionica": "U9",
+        "Zadato_vreme": 36
+    },
+    {
+        "Predmet": "Interakcija covek racunar",
+        "Tip": "V",
+        "Nastavnik": "Radosavljevic Nemanja",
+        "Grupe": [
+            "301",
+            "303",
+            "304",
+            "305"
+        ],
+        "Ucionica": [
+            "U2",
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Trajanje": "2",
+        "Zadata_ucionica": "U7",
+        "Zadato_vreme": 18
+    },
+    {
+        "Predmet": "WEB programiranje",
+        "Tip": "P",
+        "Nastavnik": "Vidakovic MIlan",
+        "Grupe": [
+            "301",
+            "303",
+            "304",
+            "307",
+            "308",
+            "309",
+            "314",
+            "319",
+            "322"
+        ],
+        "Ucionica": [
+            "U1",
+            "U6",
+            "U8",
+            "U9",
+            "U11"
+        ],
+        "Trajanje": "2",
+        "Zadata_ucionica": "U9",
+        "Zadato_vreme": 2
+    },
+    {
+        "Predmet": "WEB programiranje",
+        "Tip": "V",
+        "Nastavnik": "Gavrilovic Vuk",
+        "Grupe": [
+            "301",
+            "303",
+            "304",
+            "307",
+            "322"
+        ],
+        "Ucionica": [
+            "U2",
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Trajanje": "2",
+        "Zadata_ucionica": "U3",
+        "Zadato_vreme": 20
+    },
+    {
+        "Predmet": "Programski prevodioci",
+        "Tip": "V",
+        "Nastavnik": "Stankovic Ivana",
+        "Grupe": [
+            "301",
+            "305",
+            "308"
+        ],
+        "Ucionica": [
+            "U2",
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Trajanje": "2",
+        "Zadata_ucionica": "U5",
+        "Zadato_vreme": 15
+    },
+    {
+        "Predmet": "Softverske komponente",
+        "Tip": "P",
+        "Nastavnik": "Dimic Surla Bojana",
+        "Grupe": [
+            "301",
+            "307",
+            "309a"
+        ],
+        "Ucionica": [
+            "U1",
+            "U6",
+            "U8",
+            "U9",
+            "U11"
+        ],
+        "Trajanje": "2",
+        "Zadata_ucionica": "U1",
+        "Zadato_vreme": 4
+    },
+    {
+        "Predmet": "Softverske komponente",
+        "Tip": "V",
+        "Nastavnik": "Radovic Mihailo",
+        "Grupe": [
+            "301",
+            "307",
+            "309a"
+        ],
+        "Ucionica": [
+            "U2",
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Trajanje": "2",
+        "Zadata_ucionica": "U5",
+        "Zadato_vreme": 27
+    },
+    {
+        "Predmet": "Masinsko ucenje",
+        "Tip": "V",
+        "Nastavnik": "Jovanovic Nikola",
+        "Grupe": [
+            "301",
+            "308",
+            "302",
+            "306"
+        ],
+        "Ucionica": [
+            "U1",
+            "U6",
+            "U8",
+            "U9",
+            "U11"
+        ],
+        "Trajanje": "2",
+        "Zadata_ucionica": "U8",
+        "Zadato_vreme": 54
+    },
+    {
+        "Predmet": "Genetski algoritmi",
+        "Tip": "V",
+        "Nastavnik": "Tomic Milan",
+        "Grupe": [
+            "302",
+            "303"
+        ],
+        "Ucionica": [
+            "U2",
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Trajanje": "2",
+        "Zadata_ucionica": "U7",
+        "Zadato_vreme": 42
+    },
+    {
+        "Predmet": "Programski prevodioci",
+        "Tip": "V",
+        "Nastavnik": "Stankovic Ivana",
+        "Grupe": [
+            "302",
+            "303",
+            "304"
+        ],
+        "Ucionica": [
+            "U2",
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Trajanje": "2",
+        "Zadata_ucionica": "U7",
+        "Zadato_vreme": 26
+    },
+    {
+        "Predmet": "Genetski algoritmi",
+        "Tip": "P",
+        "Nastavnik": "Vasiljevic Jelena",
+        "Grupe": [
+            "302",
+            "303",
+            "305",
+            "306",
+            "309",
+            "309a"
+        ],
+        "Ucionica": [
+            "U1",
+            "U6",
+            "U8",
+            "U9",
+            "U11"
+        ],
+        "Trajanje": "2",
+        "Zadata_ucionica": "U1",
+        "Zadato_vreme": 38
+    },
+    {
+        "Predmet": "Funkcionalno programiranje",
+        "Tip": "P",
+        "Nastavnik": "Dimic Surla Bojana",
+        "Grupe": [
+            "302",
+            "304",
+            "309"
+        ],
+        "Ucionica": [
+            "U2",
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Trajanje": "2",
+        "Zadata_ucionica": "U4",
+        "Zadato_vreme": 15
+    },
+    {
+        "Predmet": "Funkcionalno programiranje",
+        "Tip": "V",
+        "Nastavnik": "Ciganovic Igor",
+        "Grupe": [
+            "302",
+            "304",
+            "309"
+        ],
+        "Ucionica": [
+            "U2",
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Trajanje": "2",
+        "Zadata_ucionica": "U7",
+        "Zadato_vreme": 24
+    },
+    {
+        "Predmet": "Interakcija covek racunar",
+        "Tip": "V",
+        "Nastavnik": "Radosavljevic Nemanja",
+        "Grupe": [
+            "302",
+            "307",
+            "306"
+        ],
+        "Ucionica": [
+            "U2",
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Trajanje": "2",
+        "Zadata_ucionica": "U2",
+        "Zadato_vreme": 12
+    },
+    {
+        "Predmet": "Razvoj mobilnih aplikacija",
+        "Tip": "P",
+        "Nastavnik": "Zirojevic Nemanja",
+        "Grupe": [
+            "303",
+            "304",
+            "305",
+            "306",
+            "307",
+            "308",
+            "313",
+            "314"
+        ],
+        "Ucionica": [
+            "U1",
+            "U6",
+            "U8",
+            "U9",
+            "U11"
+        ],
+        "Trajanje": "2",
+        "Zadata_ucionica": "U1",
+        "Zadato_vreme": 40
+    },
+    {
+        "Predmet": "Razvoj mobilnih aplikacija",
+        "Tip": "V",
+        "Nastavnik": "Kojadinovic Dragoljub",
+        "Grupe": [
+            "303",
+            "304",
+            "305",
+            "306",
+            "307",
+            "308",
+            "313",
+            "314"
+        ],
+        "Ucionica": [
+            "U2",
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Trajanje": "2",
+        "Zadata_ucionica": "U2",
+        "Zadato_vreme": 56
+    },
+    {
+        "Predmet": "Modelovanje i simulacija",
+        "Tip": "P",
+        "Nastavnik": "Jankovic Radomir",
+        "Grupe": [
+            "305",
+            "319",
+            "323",
+            "309a",
+            "324"
+        ],
+        "Ucionica": [
+            "U1",
+            "U6",
+            "U8",
+            "U9",
+            "U11"
+        ],
+        "Trajanje": "2",
+        "Zadata_ucionica": "U6",
+        "Zadato_vreme": 20
+    },
+    {
+        "Predmet": "Programski prevodioci",
+        "Tip": "V",
+        "Nastavnik": "Stankovic Ivana",
+        "Grupe": [
+            "306",
+            "307",
+            "309",
+            "309a"
+        ],
+        "Ucionica": [
+            "U2",
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Trajanje": "2",
+        "Zadata_ucionica": "U4",
+        "Zadato_vreme": 42
+    },
+    {
+        "Predmet": "Interakcija covek racunar",
+        "Tip": "V",
+        "Nastavnik": "Radosavljevic Nemanja",
+        "Grupe": [
+            "308",
+            "309",
+            "309a"
+        ],
+        "Ucionica": [
+            "U2",
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Trajanje": "2",
+        "Zadata_ucionica": "U7",
+        "Zadato_vreme": 31
+    },
+    {
+        "Predmet": "WEB programiranje",
+        "Tip": "V",
+        "Nastavnik": "Gavrilovic Vuk",
+        "Grupe": [
+            "308",
+            "309",
+            "314",
+            "319"
+        ],
+        "Ucionica": [
+            "U2",
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Trajanje": "2",
+        "Zadata_ucionica": "U5",
+        "Zadato_vreme": 29
+    },
+    {
+        "Predmet": "Genetski algoritmi",
+        "Tip": "V",
+        "Nastavnik": "Tomic Milan",
+        "Grupe": [
+            "309",
+            "309a",
+            "305",
+            "306"
+        ],
+        "Ucionica": [
+            "U2",
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Trajanje": "2",
+        "Zadata_ucionica": "U7",
+        "Zadato_vreme": 51
+    },
+    {
+        "Predmet": "Modelovanje i simulacija",
+        "Tip": "V",
+        "Nastavnik": "Jankovic Radomir",
+        "Grupe": [
+            "309a",
+            "324",
+            "305"
+        ],
+        "Ucionica": [
+            "U2",
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Trajanje": "2",
+        "Zadata_ucionica": "U7",
+        "Zadato_vreme": 33
+    },
+    {
+        "Predmet": "Bezbednost mreza",
+        "Tip": "P",
+        "Nastavnik": "Babic Djorde",
+        "Grupe": [
+            "313",
+            "314",
+            "319",
+            "323",
+            "324",
+            "322"
+        ],
+        "Ucionica": [
+            "U2",
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Trajanje": "2",
+        "Zadata_ucionica": "U5",
+        "Zadato_vreme": 4
+    },
+    {
+        "Predmet": "Bezbednost mreza",
+        "Tip": "V",
+        "Nastavnik": "Bojovic Petar",
+        "Grupe": [
+            "313",
+            "314",
+            "319",
+            "323",
+            "324",
+            "322"
+        ],
+        "Ucionica": [
+            "U2",
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Trajanje": "2",
+        "Zadata_ucionica": "U2",
+        "Zadato_vreme": 42
+    },
+    {
+        "Predmet": "Kompresija podataka",
+        "Tip": "P",
+        "Nastavnik": "Vukotic Selena",
+        "Grupe": [
+            "313",
+            "314",
+            "319",
+            "323",
+            "324",
+            "322"
+        ],
+        "Ucionica": [
+            "U2",
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Trajanje": "3",
+        "Zadata_ucionica": "U7",
+        "Zadato_vreme": 6
+    },
+    {
+        "Predmet": "Kompresija podataka",
+        "Tip": "V",
+        "Nastavnik": "Vukotic Selena",
+        "Grupe": [
+            "313",
+            "314",
+            "319",
+            "323",
+            "324",
+            "322"
+        ],
+        "Ucionica": [
+            "U2",
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Trajanje": "2",
+        "Zadata_ucionica": "U3",
+        "Zadato_vreme": 54
+    },
+    {
+        "Predmet": "Kodovanje i teorija informacija",
+        "Tip": "P",
+        "Nastavnik": "Vucic Desimir",
+        "Grupe": [
+            "313",
+            "314",
+            "319",
+            "323",
+            "324",
+            "322"
+        ],
+        "Ucionica": [
+            "U1",
+            "U6",
+            "U8",
+            "U9",
+            "U11"
+        ],
+        "Trajanje": "3",
+        "Zadata_ucionica": "U8",
+        "Zadato_vreme": 17
+    },
+    {
+        "Predmet": "Kodovanje i teorija informacija",
+        "Tip": "V",
+        "Nastavnik": "Jovanovic Miljana",
+        "Grupe": [
+            "313",
+            "314",
+            "319",
+            "323",
+            "324",
+            "322"
+        ],
+        "Ucionica": [
+            "U2",
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Trajanje": "2",
+        "Zadata_ucionica": "U3",
+        "Zadato_vreme": 31
+    },
+    {
+        "Predmet": "Uvod u robotiku",
+        "Tip": "P",
+        "Nastavnik": "Jovanovic Milos",
+        "Grupe": [
+            "313",
+            "323"
+        ],
+        "Ucionica": [
+            "U1",
+            "U6",
+            "U8",
+            "U9",
+            "U11"
+        ],
+        "Trajanje": "2",
+        "Zadata_ucionica": "U9",
+        "Zadato_vreme": 52
+    },
+    {
+        "Predmet": "Uvod u robotiku",
+        "Tip": "V",
+        "Nastavnik": "Jovanovic Miljana",
+        "Grupe": [
+            "313",
+            "323"
+        ],
+        "Ucionica": [
+            "U2",
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Trajanje": "2",
+        "Zadata_ucionica": "U2",
+        "Zadato_vreme": 33
+    },
+    {
+        "Predmet": "Modelovanje i simulacija",
+        "Tip": "V",
+        "Nastavnik": "Jankovic Radomir",
+        "Grupe": [
+            "319",
+            "323"
+        ],
+        "Ucionica": [
+            "U2",
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Trajanje": "2",
+        "Zadata_ucionica": "U3",
+        "Zadato_vreme": 56
+    },
+    {
+        "Predmet": "Data centar infrastruktura",
+        "Tip": "P",
+        "Nastavnik": "Martic Goran",
+        "Grupe": [
+            "324",
+            "322"
+        ],
+        "Ucionica": [
+            "U2",
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Trajanje": "2",
+        "Zadata_ucionica": "U2",
+        "Zadato_vreme": 9
+    },
+    {
+        "Predmet": "Data centar infrastruktura",
+        "Tip": "V",
+        "Nastavnik": "Martic Goran",
+        "Grupe": [
+            "324",
+            "322"
+        ],
+        "Ucionica": [
+            "U2",
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Trajanje": "2",
+        "Zadata_ucionica": "U7",
+        "Zadato_vreme": 56
+    },
+    {
+        "Predmet": "Graficki dizajn 2",
+        "Tip": "P",
+        "Nastavnik": "Malesevic Nenad",
+        "Grupe": [
+            "3d1"
+        ],
+        "Ucionica": [
+            "U1",
+            "U6",
+            "U8",
+            "U9",
+            "U11"
+        ],
+        "Trajanje": "3",
+        "Zadata_ucionica": "U11",
+        "Zadato_vreme": 48
+    },
+    {
+        "Predmet": "Racunarska animacija",
+        "Tip": "P",
+        "Nastavnik": "Djuric Milan",
+        "Grupe": [
+            "3d1"
+        ],
+        "Ucionica": [
+            "U1",
+            "U6",
+            "U8",
+            "U9",
+            "U11"
+        ],
+        "Trajanje": "3",
+        "Zadata_ucionica": "U6",
+        "Zadato_vreme": 24
+    },
+    {
+        "Predmet": "Racunarska animacija",
+        "Tip": "V",
+        "Nastavnik": "Djuric Milan",
+        "Grupe": [
+            "3d1"
+        ],
+        "Ucionica": [
+            "U1",
+            "U6",
+            "U8",
+            "U9",
+            "U11"
+        ],
+        "Trajanje": "3",
+        "Zadata_ucionica": "U11",
+        "Zadato_vreme": 39
+    },
+    {
+        "Predmet": "Scenario i knjiga snimanja",
+        "Tip": "V",
+        "Nastavnik": "Stetin Darko",
+        "Grupe": [
+            "3d1"
+        ],
+        "Ucionica": [
+            "U1",
+            "U6",
+            "U8",
+            "U9",
+            "U11"
+        ],
+        "Trajanje": "2",
+        "Zadata_ucionica": "U6",
+        "Zadato_vreme": 12
+    },
+    {
+        "Predmet": "Upravljanje i odrzavanje Windows Server okruzenja",
+        "Tip": "P",
+        "Nastavnik": "Lale Sinisa",
+        "Grupe": [
+            "3s1"
+        ],
+        "Ucionica": [
+            "U2",
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Trajanje": "3",
+        "Zadata_ucionica": "U2",
+        "Zadato_vreme": 27
+    },
+    {
+        "Predmet": "Upravljanje i odrzavanje Windows Server okruzenja",
+        "Tip": "P",
+        "Nastavnik": "Lale Sinisa",
+        "Grupe": [
+            "3s1"
+        ],
+        "Ucionica": [
+            "U2",
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Trajanje": "3",
+        "Zadata_ucionica": "U2",
+        "Zadato_vreme": 3
+    },
+    {
+        "Predmet": "Implementiranje Microsoft ISA servera",
+        "Tip": "P",
+        "Nastavnik": "Lale Sinisa",
+        "Grupe": [
+            "3s1"
+        ],
+        "Ucionica": [
+            "U2",
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Trajanje": "3",
+        "Zadata_ucionica": "U4",
+        "Zadato_vreme": 0
+    },
+    {
+        "Predmet": "Implementiranje Microsoft ISA servera",
+        "Tip": "P",
+        "Nastavnik": "Lale Sinisa",
+        "Grupe": [
+            "3s1"
+        ],
+        "Ucionica": [
+            "U2",
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Trajanje": "3",
+        "Zadata_ucionica": "U5",
+        "Zadato_vreme": 24
+    },
+    {
+        "Predmet": "Prakticne tehnike zastite u IP mrezama",
+        "Tip": "P",
+        "Nastavnik": "Bojovic Petar",
+        "Grupe": [
+            "3s1"
+        ],
+        "Ucionica": [
+            "U2",
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Trajanje": "3",
+        "Zadata_ucionica": "U3",
+        "Zadato_vreme": 12
+    },
+    {
+        "Predmet": "Prakticne tehnike zastite u IP mrezama",
+        "Tip": "V",
+        "Nastavnik": "Jankovski Ivan",
+        "Grupe": [
+            "3s1"
+        ],
+        "Ucionica": [
+            "U2",
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Trajanje": "3",
+        "Zadata_ucionica": "U3",
+        "Zadato_vreme": 51
+    },
+    {
+        "Predmet": "Istorija racunarstva",
+        "Tip": "P",
+        "Nastavnik": "Zahorjanski Miroljub",
+        "Grupe": [
+            "3s1",
+            "3s2"
+        ],
+        "Ucionica": [
+            "U1",
+            "U6",
+            "U8",
+            "U9",
+            "U11"
+        ],
+        "Trajanje": "2",
+        "Zadata_ucionica": "U6",
+        "Zadato_vreme": 48
+    },
+    {
+        "Predmet": "Razvoj infrastrukture i servisa u oblaku",
+        "Tip": "P",
+        "Nastavnik": "Miletic Misa",
+        "Grupe": [
+            "3s2"
+        ],
+        "Ucionica": [
+            "U2",
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Trajanje": "3",
+        "Zadata_ucionica": "U5",
+        "Zadato_vreme": 19
+    },
+    {
+        "Predmet": "Razvoj infrastrukture i servisa u oblaku",
+        "Tip": "V",
+        "Nastavnik": "Miletic Misa",
+        "Grupe": [
+            "3s2"
+        ],
+        "Ucionica": [
+            "U2",
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Trajanje": "3",
+        "Zadata_ucionica": "U3",
+        "Zadato_vreme": 28
+    },
+    {
+        "Predmet": "Razvoj web aplikacija i servisa",
+        "Tip": "P",
+        "Nastavnik": "Markovic Nemanja",
+        "Grupe": [
+            "3s2"
+        ],
+        "Ucionica": [
+            "U2",
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Trajanje": "3",
+        "Zadata_ucionica": "U7",
+        "Zadato_vreme": 3
+    },
+    {
+        "Predmet": "Razvoj web aplikacija i servisa",
+        "Tip": "P",
+        "Nastavnik": "Markovic Nemanja",
+        "Grupe": [
+            "3s2"
+        ],
+        "Ucionica": [
+            "U2",
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Trajanje": "3",
+        "Zadata_ucionica": "U5",
+        "Zadato_vreme": 31
+    },
+    {
+        "Predmet": "Microsoft tehnologije za pristup podacima",
+        "Tip": "P",
+        "Nastavnik": "Milosavljevic Milos",
+        "Grupe": [
+            "3s2"
+        ],
+        "Ucionica": [
+            "U2",
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Trajanje": "3",
+        "Zadata_ucionica": "U7",
+        "Zadato_vreme": 39
+    },
+    {
+        "Predmet": "Microsoft tehnologije za pristup podacima",
+        "Tip": "P",
+        "Nastavnik": "Milosavljevic Milos",
+        "Grupe": [
+            "3s2"
+        ],
+        "Ucionica": [
+            "U2",
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Trajanje": "3",
+        "Zadata_ucionica": "U2",
+        "Zadato_vreme": 6
+    },
+    {
+        "Predmet": "Konkurentni i distribuirani sistemi",
+        "Tip": "V",
+        "Nastavnik": "Milojkovic Branislav",
+        "Grupe": [
+            "401"
+        ],
+        "Ucionica": [
+            "U2",
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Trajanje": "3",
+        "Zadata_ucionica": "U4",
+        "Zadato_vreme": 24
+    },
+    {
+        "Predmet": "Softversko inzenjerstvo",
+        "Tip": "V",
+        "Nastavnik": "Markovic Ana",
+        "Grupe": [
+            "401"
+        ],
+        "Ucionica": [
+            "U2",
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Trajanje": "4",
+        "Zadata_ucionica": "U4",
+        "Zadato_vreme": 48
+    },
+    {
+        "Predmet": "Softversko inzenjerstvo",
+        "Tip": "P",
+        "Nastavnik": "Perisic Branko",
+        "Grupe": [
+            "401",
+            "402"
+        ],
+        "Ucionica": [
+            "U1",
+            "U6",
+            "U8",
+            "U9",
+            "U11"
+        ],
+        "Trajanje": "4",
+        "Zadata_ucionica": "U1",
+        "Zadato_vreme": 0
+    },
+    {
+        "Predmet": "Teorija algoritama, automata i jezika",
+        "Tip": "P",
+        "Nastavnik": "Jovanovic Jelena",
+        "Grupe": [
+            "401",
+            "402"
+        ],
+        "Ucionica": [
+            "U1",
+            "U6",
+            "U8",
+            "U9",
+            "U11"
+        ],
+        "Trajanje": "3",
+        "Zadata_ucionica": "U11",
+        "Zadato_vreme": 36
+    },
+    {
+        "Predmet": "Teorija algoritama, automata i jezika",
+        "Tip": "V",
+        "Nastavnik": "Tomic Milan",
+        "Grupe": [
+            "401",
+            "402"
+        ],
+        "Ucionica": [
+            "U1",
+            "U6",
+            "U8",
+            "U9",
+            "U11"
+        ],
+        "Trajanje": "3",
+        "Zadata_ucionica": "U11",
+        "Zadato_vreme": 53
+    },
+    {
+        "Predmet": "Konkurentni i distribuirani sistemi",
+        "Tip": "P",
+        "Nastavnik": "Milinkovic Stevan",
+        "Grupe": [
+            "401",
+            "402",
+            "405"
+        ],
+        "Ucionica": [
+            "U1",
+            "U6",
+            "U8",
+            "U9",
+            "U11"
+        ],
+        "Trajanje": "3",
+        "Zadata_ucionica": "U8",
+        "Zadato_vreme": 39
+    },
+    {
+        "Predmet": "Konkurentni i distribuirani sistemi",
+        "Tip": "V",
+        "Nastavnik": "Milojkovic Branislav",
+        "Grupe": [
+            "402"
+        ],
+        "Ucionica": [
+            "U2",
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Trajanje": "3",
+        "Zadata_ucionica": "U4",
+        "Zadato_vreme": 12
+    },
+    {
+        "Predmet": "Softversko inzenjerstvo",
+        "Tip": "V",
+        "Nastavnik": "Markovic Ana",
+        "Grupe": [
+            "402"
+        ],
+        "Ucionica": [
+            "U2",
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Trajanje": "4",
+        "Zadata_ucionica": "U3",
+        "Zadato_vreme": 24
+    },
+    {
+        "Predmet": "Konkurentni i distribuirani sistemi",
+        "Tip": "V",
+        "Nastavnik": "Milojkovic Branislav",
+        "Grupe": [
+            "405"
+        ],
+        "Ucionica": [
+            "U2",
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Trajanje": "3",
+        "Zadata_ucionica": "U7",
+        "Zadato_vreme": 15
+    },
+    {
+        "Predmet": "Digitalna obrada signala",
+        "Tip": "P",
+        "Nastavnik": "Babic Djorde",
+        "Grupe": [
+            "405"
+        ],
+        "Ucionica": [
+            "U2",
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Trajanje": "3",
+        "Zadata_ucionica": "U5",
+        "Zadato_vreme": 12
+    },
+    {
+        "Predmet": "Digitalna obrada signala",
+        "Tip": "V",
+        "Nastavnik": "Jovanovic Miljana",
+        "Grupe": [
+            "405"
+        ],
+        "Ucionica": [
+            "U2",
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Trajanje": "3",
+        "Zadata_ucionica": "U5",
+        "Zadato_vreme": 36
+    },
+    {
+        "Predmet": "Namenski racunarski sistemi",
+        "Tip": "P",
+        "Nastavnik": "Jovanovic Milos",
+        "Grupe": [
+            "405"
+        ],
+        "Ucionica": [
+            "U2",
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Trajanje": "3",
+        "Zadata_ucionica": "U3",
+        "Zadato_vreme": 0
+    },
+    {
+        "Predmet": "Namenski racunarski sistemi",
+        "Tip": "V",
+        "Nastavnik": "Stambolovic Bogdana",
+        "Grupe": [
+            "405"
+        ],
+        "Ucionica": [
+            "U2",
+            "U3",
+            "U4",
+            "U5",
+            "U7"
+        ],
+        "Trajanje": "3",
+        "Zadata_ucionica": "U4",
+        "Zadato_vreme": 52
+    }
+]
